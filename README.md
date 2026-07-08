@@ -32,8 +32,8 @@ It lets you design and run **2D and animated wallpapers** with a **Windows 11–
 
 - Make it easy to **create your own animated wallpapers** without learning a full game engine.
 - Provide a flexible **wallpaper package format** that can be loaded by different runtimes.
-- Experiment with a **Windows 11 / Fluent‑inspired design language** in a cross‑platform desktop app.[web:2][web:3][web:4]
-- Eventually support **per‑OS wallpaper integration**, similar in spirit to existing live‑wallpaper tools.[web:10][web:18]
+- Experiment with a **Windows 11 / Fluent‑inspired design language** in a cross‑platform desktop app.
+- Eventually support **per‑OS wallpaper integration**, similar in spirit to existing live‑wallpaper tools.
 
 ---
 
