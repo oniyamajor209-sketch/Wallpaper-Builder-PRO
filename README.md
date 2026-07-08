@@ -21,7 +21,7 @@ It lets you design and run **2D and animated wallpapers** with a **Windows 11–
   Wallpapers are stored as a portable JSON + assets package so they can be edited, shared and replayed.
 
 - 🧪 **Cross‑platform desktop app**
-  The editor is built as a desktop app so it can run on **Windows, macOS and Linux** (using web technologies like Electron / HTML / CSS / JS).[web:8][web:11]
+  The editor is built as a desktop app so it can run on **Windows, macOS and Linux** (using web technologies like Electron / HTML / CSS / JS).
 
 - 🧱 **Modular architecture**  
   Separate **Editor** (create wallpapers) and **Player** (run wallpapers as live backgrounds), so future integrations per‑OS are easier.
